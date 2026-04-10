@@ -1,5 +1,3 @@
-# Data-Intelligence-Dashboard
-Automated data analytics dashboard with insights and anomaly detection.
 # Data Intelligence Dashboard
 
 > Transform raw data into actionable insights instantly.
