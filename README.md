@@ -45,3 +45,8 @@ generates key insights, and detects anomalies.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 👨‍💻 Author
+Parth Borse  
+🔗 GitHub: https://github.com/Parth-Borse10  
+🔗 LinkedIn: www.linkedin.com/in/parth-borse
